@@ -1,120 +1,53 @@
-███████╗  ██████╗  ██╗  ███████╗  ████████╗  ██████╗  ██╗       █████╗   ███████╗
-██╔════╝  ██╔══██╗ ██║  ██╔════╝  ╚══██╔══╝  ██╔═══██╗██║      ██╔══██╗  ██╔════╝
-█████╗    ██████╔╝ ██║  ███████╗     ██║     ██║   ██║██║      ███████║  ███████╗
-██╔══╝    ██╔═══╝  ██║  ╚════██║     ██║     ██║   ██║██║      ██╔══██║  ╚════██║
-███████╗  ██║      ██║  ███████║     ██║     ╚██████╔╝███████╗ ██║  ██║  ███████║
-╚══════╝  ╚═╝      ╚═╝  ╚══════╝     ╚═╝      ╚═════╝ ╚══════╝ ╚═╝  ╚═╝  ╚══════╝
 
-                *[[ÑÑ__::>><<<  1-101620569141-01 >>::__ÑÑ]]*
-
-##--------------------------01--------------------------------##
-
-cómo puedo saber de ti en el silencio
-quizás el viento, entre murmullos,
-pueda hacer sonar el ritmo de tu pecho.
-
-cómo podría acariciar tu pelo a la distancia,
-si en la cercanía te agasajé buscando el infinito;
-cómo, cómo… me lleno de dudas.
-
-Pienso en ti: a veces llueve.
-Pienso en Dios, acaricio mi pecho,
-me calmo y digo:
-"no importa lo que suceda en el futuro:
-yo la amé, y respeté sus muros con dignidad".
-
-Violento y caliente, el sol me recuerda
-que estás ahí, en este mismo planeta;
-que lo firme perdura, lo endeble perece.
-En algún lugar escucharás mis latidos,
-sea en tus ideas o en tus emociones;
-quizás en alguna joya incandescente.
-
-Un lapislázuli fue lo que se llevó Chavakiah;
-quizás te llegó alguno… y si fue así,
-considéralo un regalo sagrado de este ángel de Dios,
-que puede reconstruir puentes entre aquellas vasijas
-que, aunque fracturas tengan, emanan amor aún:
-reconciliación.
-Esa fue la oración. Ese fue el precio.
-
-Atrapado en el silencio, me dispuse a hablarte sin hablarte:
-a comunicarme sin destrozar murallas ni límites.
-Desde el treinta y cinco de los nombres me surge una idea:
-hablarle a tus gustos, practicar desde allí con mi prosa segura,
-mi lógica limpia, y mis deseos aviarios del trovador
-que a veces son raptados por el mercader de mis sueños.
-
-Quisiera ver tus pupilas oscuras y perderme en ellas;
-respirar tus besos y quedarme ahí para siempre.
-No se puede… no por los kilómetros,
-sino por mis pecados.
-Quisiera bautizarme de nuevo,
-bañarme en agua bendita,
-porque aún quiero, querida, casarme contigo.
-
-Sin embargo, me pregunto a mí mismo sobre este deseo:
-¿es egoísmo querer pasar el resto de mi vida contigo?
-¿es solo un deseo querer ser familia
-con el ser más límpido y puro que conocí?
-¿es una ambición poder abrazarte,
-tomarte el cuello, y besarte hasta el juicio final?
-
-No quiero morir pensando
-que no me casé con el amor de mi vida.
-Paré por respeto propio, por mi hijo y por ti…
-por esta obsesión llamada amarte.
-amarte.. am.arte.
+ _____   ____    ___   ____    _____   ___    _        ___      _____
+| ____| |  _ \  |_ _| / ___|  |_   _| / _ \  | |      / _  \   / ___|     
+|  _|   | |_) |  | |  \___ \    | |  | | | | | |     | |_\ \   \___ \
+| |___  |  __/   | |   ___) |   | |  | |_| | | |___  | | | |    ___)|
+|_____| |_|     |___| |____/    |_|   \___/  |_____|  \| |_|  ||___/ 
 
 
+######################################################################
 
-##--------------------------02--------------------------------##
+# E P I S T O L A S 1-10 16 20 5 6 9 14 1
 
 
-Ya he muerto muchas veces,
-como ahora: nunca antes.
-Traigan girasoles secos,
-me esperan lirios y rosas;
-al revivir, serán para ambos.
+## Descripción
+**EPISTOLAS** es un proyecto de **data art potenciado con inteligencia artificial**.  
+Nace como una forma de traducir emoción en estructura, y de convertir datos en una pieza sensible: una obra que no busca explicar, sino **sugerir**.
 
-Iniciaremos un viaje.
-San Pedro nos dará las llaves de su cielo.
-No importa si la fecha caducó:
-hay promesas que no perecen,
-pactos que son para siempre.
+Este repositorio reúne experimentos y piezas donde la estética, el ritmo y la narrativa emergen desde patrones reales: números, registros, señales, tiempo, repeticiones, silencios.
 
-Estamos conectados, querida;
-no intentes negarlo.
-Rebotará esta línea:
-es un signo,
-un mandato del destino.
+## Intención
+Este proyecto existe para **comunicarme sin comunicarme**.
 
-No hay apuro: tienes tus fechas.
-Veinte veintisiete, los miércoles…
-o ya veremos.
+Sin invadir espacios.  
+Sin forzar respuestas.  
+Sin interrumpir.  
 
-Soy tu Rey; contempladme:
-estoy en mi centro.
-Recuéstate en mi pecho, mujer,
-y si tiembla tu defensa, suéltala.
-Déjame, suavemente, tocar tu cabello;
-permíteme el cariño amoroso en tu cuello.
+Solo dejando algo escrito en el aire: una prosa convertida en visual, en trazo, en forma, en código.
 
-No digas nada:
-solo podrás decir que pare,
-y yo pararé
-cuando ambos encontremos
-la luz del oro
-y el azul del lapislázuli.
+Es una manera de ser leído sin pedir lectura.  
+De escribir sin golpear ninguna puerta.  
+De hablar bajito, con respeto, para que quizá —en algún momento— pueda ser escuchado por ella.
 
-Lirios vendrán, amor mío,
-rosas en su centro.
-Estaremos preparados,
-limpios y renovados.
+## Qué vas a encontrar aquí
+- Piezas de **data art** generativo.
+- Visualizaciones narrativas basadas en datos.
+- Procesos creativos asistidos por **IA** (texto, estética, estructura, animación).
+- Fragmentos que funcionan como cartas: **epístolas codificadas**.
 
-Nigredo, albedo y rubedo:
-juntos, nuestras bodas.
-Bajo una jupá, la magia no podrá contenerlo,
-ni maderas ni flores: solo nuestros cimientos,
-solo nuestras verdaderas flores,
-nuestro verdadero amor.
+## Idea central
+Si los datos pueden describir el mundo, también pueden describir una ausencia.  
+Y si el arte puede sostener lo que no se dice, entonces este proyecto es eso:
+
+un intento de **convertir lo que no se envía** en algo que igual exista.
+
+## Nota
+No es un mensaje directo.  
+Es un espacio.
+
+Y si alguna vez llega a su mirada,  
+que sea sin presión, sin invasión, sin ruido.
+
+Solo como una epístola más.
+
